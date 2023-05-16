@@ -1,0 +1,14 @@
+[
+  {
+    "name": "AVAFestival",
+    "logo": "/logos/AVAFestival.jpg"
+  },
+  {
+    "name": "ElectricPicnic",
+    "logo": "/logos/ElectricPicnic.jpg"
+  },
+  {
+    "name": "Isle of Wight Festival",
+    "logo": "/logos/IoWFestival.jpg"
+  }
+]

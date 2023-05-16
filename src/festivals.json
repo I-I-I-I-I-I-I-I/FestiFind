@@ -1,0 +1,38 @@
+[
+  {
+    "name": "AVA Festival",
+    "logo": "AVAFestival.jpg"
+  },
+  {
+    "name": "Electric Picnic",
+    "logo": "ElectricPicnic.jpg"
+  },
+  {
+    "name": "Isle of Wight Festival",
+    "logo": "IoWFestival.jpg"
+  },
+  {
+    "name": "Kendal Calling",
+    "logo": "KendalCalling.png"
+  },
+  {
+    "name": "Reading / Leeds",
+    "logo": "readingLeeds.jpg"
+  },
+  {
+    "name": "TRNSMT",
+    "logo": "TRNSMT.png"
+  },
+  {
+    "name": "Wilderness Festival",
+    "logo": "WildernessFestival.png"
+  },
+  {
+    "name": "Download Festival",
+    "logo": "DownloadFestival.jpg"
+  },
+  {
+    "name": "Latitude Festival",
+    "logo": "LatitudeFestival.png"
+  }
+]
